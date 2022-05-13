@@ -158,6 +158,7 @@ li a {
 }
 
 .categoria-menu:hover .subllista-menu {
+  z-index: 1;
   display: block;
 }
 

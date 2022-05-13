@@ -167,6 +167,7 @@ li a{
 
 .categoria-menu:hover .subllista-menu {
     display:block;
+    z-index: 1;
 }
 
 .subllista-menu{
