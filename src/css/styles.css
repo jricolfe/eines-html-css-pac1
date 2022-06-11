@@ -167,6 +167,7 @@ li a{
 
 .categoria-menu:hover .subllista-menu {
     display:block;
+    z-index: 1;
 }
 
 .subllista-menu{
@@ -211,7 +212,7 @@ li a{
     
 .footer-subllista li a{
     font-size: 1em;
-    font-weight: 576;
+    font-weight: 700;
 }
 
 .caixa-logo-autor img{
