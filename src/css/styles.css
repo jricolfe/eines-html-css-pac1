@@ -96,11 +96,11 @@ iframe {
 
 
 @keyframes svg-animacio {
-    0%   {scale:100%}
-    25%  {scale:110%}
-    50%  {scale:130%}
-    75%  {scale:110%}
-    100% {scale:100%}
+    0%   {transform:scale(100%)}
+    25%  {transform:scale(110%)}
+    50%  {transform:scale(130%)}
+    75%  {transform:scale(110%)}
+    100% {transform:scale(100%)}
   }
 
 
